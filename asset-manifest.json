@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/faq-accordion-card-react/static/css/main.6a7477b2.css",
+    "main.js": "/faq-accordion-card-react/static/js/main.137167be.js",
+    "static/js/787.ef8d08e4.chunk.js": "/faq-accordion-card-react/static/js/787.ef8d08e4.chunk.js",
+    "static/media/illustration-woman-online-desktop.svg": "/faq-accordion-card-react/static/media/illustration-woman-online-desktop.843eb114c7213a596ee2.svg",
+    "index.html": "/faq-accordion-card-react/index.html",
+    "static/media/bg-pattern-desktop.svg": "/faq-accordion-card-react/static/media/bg-pattern-desktop.f51e07a2f52390c60484.svg",
+    "static/media/bg-pattern-mobile.svg": "/faq-accordion-card-react/static/media/bg-pattern-mobile.55aee9128a769eedabec.svg",
+    "main.6a7477b2.css.map": "/faq-accordion-card-react/static/css/main.6a7477b2.css.map",
+    "main.137167be.js.map": "/faq-accordion-card-react/static/js/main.137167be.js.map",
+    "787.ef8d08e4.chunk.js.map": "/faq-accordion-card-react/static/js/787.ef8d08e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a7477b2.css",
+    "static/js/main.137167be.js"
+  ]
+}
