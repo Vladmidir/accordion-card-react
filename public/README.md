@@ -86,6 +86,8 @@ Also, I want to redo the interatice-credit-card-form with React.
 
 - [How to Build React Accordion](https://www.freecodecamp.org/news/build-accordion-menu-in-react-without-external-libraries/) - This helped to build the FAQ accordion.
 - [Intro to React Hooks](https://levelup.gitconnected.com/an-introduction-to-react-hooks-50281fd961fe) - This article helped me understand React hooks.
+- [Fix Deact deployment whitescreen](https://www.andreasreiterer.at/fix-whitescreen-static-react-app/) - this talks about what "homepage"
+property in package.json does. Mistyping the homepage link was one of my issues when deploying.
 
 ## Author
 
