@@ -89,4 +89,4 @@ Also, I want to redo the interatice-credit-card-form with React.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Vladmidir](https://www.frontendmentor.io/profile/Vladmidir)
